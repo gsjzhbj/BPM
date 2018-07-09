@@ -1,5 +1,6 @@
 # BPM
 ## BPM模式调整
+### 串行会签
 - 修改文件
 properties-multiinstancemodel-controller.js 
 $scope.items定义了审批模式数组
@@ -22,3 +23,6 @@ stencilset.json
 
 
 ## BPM扩展属性
+## 指派
+* 发起指派
+* 环节指派
