@@ -28,4 +28,6 @@ stencilset.json
 * 环节指派
 ## 逾期
 act_ru_task：due_date
+## 抄送
+bpm_re_message:copytousers
 
