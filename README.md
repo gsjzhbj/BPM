@@ -23,11 +23,15 @@ stencilset.json
 
 
 ## BPM扩展属性
-## 指派
+
+### 角色限定 
+### 用户组限定
+
+### 指派
 * 发起指派
 * 环节指派
-## 逾期
+### 逾期
 act_ru_task：due_date
-## 抄送
+### 抄送
 bpm_re_message：copytousers
 
