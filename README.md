@@ -35,4 +35,10 @@ stencilset.json
 act_ru_task：due_date
 ### 抄送
 bpm_re_message：copytousers
+### 操作
+* 可驳回
+* 可被驳回
+* 可加签
+* 可改派
+* 可指派
 
